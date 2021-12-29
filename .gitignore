@@ -1,0 +1,8 @@
+backup/*
+build/*
+data/*
+key/*
+merged/*
+*/__pycache__
+test_read.py
+config.py
